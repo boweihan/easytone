@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["bowei.han100@gmail.com"]
 
   spec.summary       = %q{This gem allows you to easily call the Watson Tone Analyzer API with just your username, password, and the text you want to analyze}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/boweihan/easytone"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
